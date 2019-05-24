@@ -1,0 +1,1 @@
+Note situs target tanpa http/https hasil yang dimunculkan USERNAME | PASSWORD
