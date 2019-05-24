@@ -1,0 +1,2 @@
+# gapenting
+gapenting jangan dibuka
