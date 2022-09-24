@@ -7,9 +7,9 @@
                                                           
 Tools auto exploit cms schollhost untuk mencari user dan password admin untuk tutorialnya dengan menggunakan dork inurl:"/?p=detberita" site:id
 =====================================================================
-Coded By Nor Ahmad Ft ClownTerror072
-Github = https://github.com/archive-code
-Instagram = @norahm4d
+Coded By Nor Ahmad And Modded BY Trhacknon
+Github = https://github.com/trhacknon
+Instagram = 
 
-THANKS TO = JOGJA CYBER SECURITY | SADCODE | IND CYBER ARMY | LIZARD BLACKHAT
+THANKS TO = TRHACKNON | LMARSUP | ANONYMOUS CYBER ARMY | JELENA
 =====================================================================
